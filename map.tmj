@@ -1567,7 +1567,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"tilesets\/special_zones.png",
+         "image":"tilesets\/Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
